@@ -1,0 +1,1 @@
+TCP/IP is a set of protocols designed to standardize ways two computers can communicate. It is used in 99.9% systems as of today.
